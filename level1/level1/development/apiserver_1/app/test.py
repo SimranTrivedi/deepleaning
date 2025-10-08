@@ -12,6 +12,5 @@ simobj = getJsonObject("Simran", 20)
 harishobj = getJsonObject("Harish", 21)
 
 print(simobj)
-print(harishobj)
 my_number=even_number(10)
 print(my_number)
